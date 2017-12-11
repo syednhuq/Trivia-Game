@@ -1,0 +1,72 @@
+body
+{
+	background-image: url("https://media.giphy.com/media/EeUjRAmXAFB5u/giphy.gif");
+	background-repeat: no-repeat;
+    background-size: 900px 600px;
+    background-position: center;
+    background-color: black;
+	text-align: center;
+	font-family: 'Megrim', cursive;
+	font-size: 2em;
+	cursor: default;
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+
+.container
+{
+	background-image: url("https://media.giphy.com/media/8Ffhgw6dDqwoM/giphy.gif");
+	background-repeat: no-repeat;
+    background-size: 600px 400px;
+    background-position: center;
+    background-color: black;
+	width: 600px;
+}
+
+.title
+{
+	font-family: 'Bungee Inline', cursive;
+	font-weight: 800;
+	font-size: 2em;
+	background: url("https://media.giphy.com/media/SiG2r2DEmK8da/giphy.gif");
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.col-sm-6
+{
+	background: black;
+	width: 300px;
+	color:red;
+}
+
+.below {
+	font-family: 'Nova Square', cursive;
+	color:white;
+}
+
+#question
+{
+	font-weight: bold;
+	color: white;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.answer:hover
+{
+	background: url("https://media.giphy.com/media/3ohhwJlKHGchQUtvBS/giphy.gif");
+	color: white;
+}
+
+.answer:active
+{
+	background: url("https://media.giphy.com/media/xT0GqKurRBk0V67B5K/giphy.gif");
+	color: white;
+}
+
+img
+{
+	max-height: 150px;
+	max-width: 250px;
+}
